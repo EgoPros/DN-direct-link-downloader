@@ -9,8 +9,10 @@
 - **Node.js** installed on your system.
 - **Axios** for making HTTP requests. Install it with the following command:
 
-  ```bash
-  npm install axios
+  ```
+  npm init -y
+  ```
+      npm install axios
 
 1. Run the script:
 ```
